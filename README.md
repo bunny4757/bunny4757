@@ -32,7 +32,7 @@ Passionate about **web application security**, Linux hardening, incident respons
 - Secure coding practices
 
 ### 📫 Let's Connect
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kota-aditya-b3b70a336)  
+- **LinkedIn**: [linkedin.com/in/myprofile](https://www.linkedin.com/in/kota-aditya-b3b70a336)  
 - Open to **internships, entry-level roles, or collaboration** in Cybersecurity / Penetration Testing
 
 ---
